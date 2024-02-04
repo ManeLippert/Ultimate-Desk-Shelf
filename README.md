@@ -44,7 +44,7 @@ I would be very happy, if this project gets more attention and people creating 3
 
 **Thanks for participating!**
 
-## Source/Inspiratiuons
+## Source/Inspirations
 
 [![balolo](/images/inspiration/balolo.png)](https://www.balolo.de/products/setup-cockpit-large) 
 
