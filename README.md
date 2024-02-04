@@ -7,7 +7,7 @@ I build as a summer project an desk shelf for my desk. It is inspired by the [**
 ### Similarities
 
 - Fully compatible with Balolo desk shelf [accessories](https://www.balolo.de/collections/setup-cockpit-accessories) 
-- Placement if the speakers unter the desk shelf
+- Placement if the speakers under the desk shelf
 - Middle section for more storage space
 
 ### Differences
