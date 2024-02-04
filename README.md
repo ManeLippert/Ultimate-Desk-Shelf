@@ -19,7 +19,7 @@ I build as a summer project an desk shelf for my desk. It is inspired by the [**
 - 50 x M5 threaded inserts for wood with 10mm (0.39in) depth
 - 2 x wood plates with at least
     - Length: 125cm (49,21in)
-    - Width: 21cm (8,27in)
+    - Width: 23cm (9,06in)
     - Thickness: 1.8cm (7.09in)
 - 4 x 8mm (0,31in) dowels
 
