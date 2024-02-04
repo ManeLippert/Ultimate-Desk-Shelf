@@ -37,6 +37,10 @@ I build as a summer project an desk shelf for my desk. It is inspirated by the [
 ![desk](/images/desk-shelf/Desk_V3.png)
 ![desk-real](/images/desk-shelf/Desk_Real.png)
 
+## 3D Prints
+
+I would be very happy, if this project gets more attention and people creating 3D prints for this desk shelf. If you want to be featured here just write me an DM and post your design with the name scheme "Ultimate Desk Shelf - Your Mounting Idea". Thanks for participating.
+
 ## Source/Inspiratiuons
 
 [![balolo](/images/inspiration/balolo.png)](https://www.balolo.de/products/setup-cockpit-large) 
