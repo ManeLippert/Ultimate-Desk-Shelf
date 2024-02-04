@@ -40,7 +40,9 @@ I build as a summer project an desk shelf for my desk. It is inspirated by the [
 
 ## 3D Prints
 
-I would be very happy, if this project gets more attention and people creating 3D prints for this desk shelf. If you want to be featured here just write me an DM and post your design with the name scheme "Ultimate Desk Shelf - Your Mounting Idea". Thanks for participating.
+I would be very happy, if this project gets more attention and people creating 3D prints for this desk shelf. If you want to be featured here just write me an DM and post your design with the name scheme "Ultimate Desk Shelf - Your Mounting Idea". 
+
+**Thanks for participating!**
 
 ## Source/Inspiratiuons
 
