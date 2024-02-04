@@ -21,6 +21,7 @@ I build as a summer project an desk shelf for my desk. It is inspirated by the [
     - Length: 125cm (49,21in)
     - Width: 21cm (8,27in)
     - Thickness: 1.8cm (7.09in)
+- 4 x 8mm (0,31in) dowels
 
 ## Engineering Drawings
 
