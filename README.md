@@ -2,9 +2,9 @@
 
 ![desk-shelf](/images/desk-shelf/Desk_Shelf_V3.png)
 
-I build as a summer project an desk shelf for my desk. It is inspirated by the [**Balolo Setup Cockpit**](https://www.balolo.de/products/setup-cockpit-large) and the desk shelf build in this [YouTube video](https://www.youtube.com/watch?v=Od2um2CjXf8&pp=ygUOZGVzayBzaGVsZiBkaXk%3D).
+I build as a summer project an desk shelf for my desk. It is inspired by the [**Balolo Setup Cockpit**](https://www.balolo.de/products/setup-cockpit-large) and the desk shelf build in this [YouTube video](https://www.youtube.com/watch?v=Od2um2CjXf8&pp=ygUOZGVzayBzaGVsZiBkaXk%3D).
 
-### Simularities
+### Similarities
 
 - Fully compatible with Balolo desk shelf [accessories](https://www.balolo.de/collections/setup-cockpit-accessories) 
 - Placement if the speakers unter the desk shelf
